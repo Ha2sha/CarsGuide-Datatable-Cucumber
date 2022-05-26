@@ -1,0 +1,34 @@
+2022-05-26 12:05:831 INFO  ManageDriver :27 - Launching Chrome Browser
+2022-05-26 12:05:354 INFO  ManageDriver :27 - Launching Chrome Browser
+2022-05-26 12:05:150 INFO  HomePage :39 - Mouse Hovering on Buy & Sell Link. 
+2022-05-26 12:05:147 INFO  HomePage :51 - Mouse Hover & click on Find Dealer Link. 
+2022-05-26 12:05:198 INFO  FindDealersPage :34 - verifying find dealers url: '[[ChromeDriver: chrome on WINDOWS (58a14d8ea701a5e53d35b51a1f824d8d)] -> xpath: //h1[@class='dealer-title']]
+2022-05-26 12:05:271 INFO  ManageDriver :31 - Launching Firefox Browser
+2022-05-26 12:05:77 INFO  HomePage :39 - Mouse Hovering on Buy & Sell Link. 
+2022-05-26 12:05:388 INFO  HomePage :51 - Mouse Hover & click on Find Dealer Link. 
+2022-05-26 12:05:840 INFO  FindDealersPage :34 - verifying find dealers url: '[[FirefoxDriver: firefox on WINDOWS (f8ffea9e-41b1-478e-aa10-8621e9ee2182)] -> xpath: //h1[@class='dealer-title']]
+2022-05-26 12:05:450 INFO  ManageDriver :31 - Launching Firefox Browser
+2022-05-26 13:05:566 INFO  HomePage :39 - Mouse Hovering on Buy & Sell Link. 
+2022-05-26 13:05:898 INFO  HomePage :51 - Mouse Hover & click on Find Dealer Link. 
+2022-05-26 13:05:358 INFO  FindDealersPage :34 - verifying find dealers url: '[[FirefoxDriver: firefox on WINDOWS (ae057e4d-cc90-4614-b696-2b9f88881215)] -> xpath: //h1[@class='dealer-title']]
+2022-05-26 13:05:658 INFO  FindDealersPage :42 - Fetching Dealers Name: 3 Point Motors Epping
+2022-05-26 13:05:53 INFO  FindDealersPage :42 - Fetching Dealers Name: 3 Point Motors Epping
+2022-05-26 13:05:826 INFO  FindDealersPage :52 - Clicking on next button.
+2022-05-26 13:05:209 INFO  FindDealersPage :42 - Fetching Dealers Name: 4WD Specialist Group
+2022-05-26 13:05:324 INFO  FindDealersPage :42 - Fetching Dealers Name: 4WD Specialist Group
+2022-05-26 13:05:96 INFO  FindDealersPage :52 - Clicking on next button.
+2022-05-26 13:05:191 INFO  FindDealersPage :42 - Fetching Dealers Name: 5 Star Auto Trade
+2022-05-26 13:05:225 INFO  FindDealersPage :42 - Fetching Dealers Name: 5 Star Auto Trade
+2022-05-26 13:05:440 INFO  FindDealersPage :42 - Fetching Dealers Name: 777 Pinoy Auto Sales
+2022-05-26 13:05:586 INFO  FindDealersPage :42 - Fetching Dealers Name: 777 Pinoy Auto Sales
+2022-05-26 13:05:936 INFO  FindDealersPage :52 - Clicking on next button.
+2022-05-26 13:05:65 INFO  FindDealersPage :42 - Fetching Dealers Name: A Cullen & Son
+2022-05-26 13:05:90 INFO  FindDealersPage :42 - Fetching Dealers Name: A Cullen & Son
+2022-05-26 13:05:426 INFO  FindDealersPage :52 - Clicking on next button.
+2022-05-26 13:05:621 INFO  FindDealersPage :42 - Fetching Dealers Name: ALL ABOUT CARS
+2022-05-26 13:05:724 INFO  FindDealersPage :42 - Fetching Dealers Name: ALL ABOUT CARS
+2022-05-26 13:05:875 INFO  FindDealersPage :52 - Clicking on next button.
+2022-05-26 13:05:861 INFO  FindDealersPage :52 - Clicking on next button.
+2022-05-26 13:05:506 INFO  FindDealersPage :52 - Clicking on next button.
+2022-05-26 13:05:584 INFO  FindDealersPage :42 - Fetching Dealers Name: AVON VALLEY TOYOTA
+2022-05-26 13:05:638 INFO  FindDealersPage :42 - Fetching Dealers Name: AVON VALLEY TOYOTA
